@@ -7,5 +7,5 @@ Eigen is a C++ template library for linear algebra: matrices, vectors, numerical
 Eigen.Natvis is a Visual Studio Extention for Watching Eigen Variables like MatrixXd, VectorXd and so on in Debug Mode.
 For Using that, the "eigen.natvis" File is typically copied to %VSINSTALLDIR%\Common7\Packages\Debugger\Visualizers, where %VSINSTALLDIR% is the Visual Studio installation folder.
 
-ATTENTION
-This File has Modified For Make The Matrix Indexes be Compatible in C++ and Matlab in Visual Studio Add to Watch tool.
+::ATTENTION::
+This File has been Modified For Making The Index of Matrices Compatible in C++ and Matlab when you are using Visual Studio 'Add to Watch' tool.
